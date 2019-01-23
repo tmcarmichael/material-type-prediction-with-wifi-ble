@@ -1,9 +1,6 @@
 # Classifying materials with different wireless protocols
 <br>
 
-**NOTE: Appended Confusion Matrix and added the code to the repo. Confusion Matrix can be found below, under the KMeans plots.** (11/29/18)
-<br>
-
 #### File Index:
  	Networking Project Report.pdf    -- Primary Report PDF
 	Networking Project Data.csv	 -- Data used for K-Means Clustering
