@@ -1,7 +1,7 @@
-# Milestone 2 - Classifying materials using different protocols
+# Classifying materials with different wireless protocols
 <br>
 
-**NOTE: From Milad project review: Appended Confusion Matrix and added the code to the repo. Confusion Matrix can be found below, under the KMeans plots.** (11/29/18)
+**NOTE: Appended Confusion Matrix and added the code to the repo. Confusion Matrix can be found below, under the KMeans plots.** (11/29/18)
 <br>
 
 #### File Index:
