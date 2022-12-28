@@ -43,12 +43,12 @@ Using Scikit-Learn: see **3DScatterKNNCluster.py** for more detail. **NOTE**: Th
 <br><br><br>
 
 ## 3D K-Means Clustering (Clear, and another angle), 10,000 iterations
-![3D Scatter](https://github.com/tmcarmichael/project-milestone-2-tmcarmichael/blob/master/3DScatterKNNClusterClear.png)
+![3D Scatter](https://github.com/tmcarmichael/material-type-prediction-with-wifi-ble/blob/master/3DScatterKNNClusterClear.png)
 Using Scikit-Learn: see **3DScatterKNNCluster.py** for more detail. *KMeans(n_clusters=5, algorithm='auto', init='k-means++', max_iter=10000, tol=0.0001, verbose=1)*
 <br><br>
 
 ## Confusion Matrix Heatmap
-![Confusion Matrix](https://github.com/tmcarmichael/project-milestone-2-tmcarmichael/blob/master/CMatrixHeatmap.png)
+![Confusion Matrix](https://github.com/tmcarmichael/material-type-prediction-with-wifi-ble/blob/master/CMatrixHeatmap.png)
 <br>
 Using Seaborn with Matplotlib: see **CMatrixHeatmap.py** for more detail. 
 <br>
